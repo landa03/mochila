@@ -1,0 +1,11 @@
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.exe
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.deps.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.runtimeconfig.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.runtimeconfig.dev.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\bin\Debug\netcoreapp3.1\mochila.pdb
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\obj\Debug\netcoreapp3.1\mochila.csprojAssemblyReference.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\obj\Debug\netcoreapp3.1\mochila.AssemblyInfoInputs.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\obj\Debug\netcoreapp3.1\mochila.AssemblyInfo.cs
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\obj\Debug\netcoreapp3.1\mochila.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\mochila\obj\Debug\netcoreapp3.1\mochila.pdb
